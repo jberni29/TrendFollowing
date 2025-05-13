@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+ta
+matplotlib
+bayesian-optimization
+tensorflow
+scikit-learn
+plotly
